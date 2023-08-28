@@ -23,3 +23,4 @@ C:\Users\Kemalcan CEYLAN\Desktop\C#\FormApp\WindowsFormsApp1\obj\Debug\WindowsFo
 C:\Users\Kemalcan CEYLAN\Desktop\C#\FormApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Kemalcan CEYLAN\Desktop\C#\FormApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Kemalcan CEYLAN\Desktop\C#\FormApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Kemalcan CEYLAN\Desktop\C#\FormApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
