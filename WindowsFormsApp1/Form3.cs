@@ -30,6 +30,8 @@ namespace WindowsFormsApp1
             adapter.Fill(dt);
 
             dataGridView1.DataSource = dt;
+
+            conn.Close();
         }
     }
 }
